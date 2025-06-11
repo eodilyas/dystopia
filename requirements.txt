@@ -1,3 +1,5 @@
 prettytable
 distro
 subprocess
+pycryptodome
+pywin32
